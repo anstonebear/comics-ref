@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/comics-ref/static/css/main.5d77eec4.css",
+    "main.js": "/comics-ref/static/js/main.6130c172.js",
+    "static/media/vision.png": "/comics-ref/static/media/vision.067d4ae1936d64a577ce.png",
+    "static/media/mjolnir.png": "/comics-ref/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/error.gif": "/comics-ref/static/media/error.42292aa12b6bc303ce99.gif",
+    "index.html": "/comics-ref/index.html",
+    "main.5d77eec4.css.map": "/comics-ref/static/css/main.5d77eec4.css.map",
+    "main.6130c172.js.map": "/comics-ref/static/js/main.6130c172.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d77eec4.css",
+    "static/js/main.6130c172.js"
+  ]
+}
